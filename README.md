@@ -1,6 +1,6 @@
 # Monitoring-Harmful-Text-in-Online-Platforms-
 
-You can [check the Notebook](clf_andRandom_forest_Ensemble.ipynb) with its last outputs, or download it and upload the necessary files [] before running it.
+You can [check the Notebook](clf_andRandom_forest_Ensemble.ipynb) with its last outputs, or download it and upload the necessary files  before running it. All of the required files are available to download below the [clf_andRandom_forest_Ensemble.ipynb] notebook
 
 We used a T4 GPU and lots of RAM to prepare the RoBERTa model, but it didn't perform well for predictions. So, you should be okay running it with just high RAM.
 
